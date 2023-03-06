@@ -1,7 +1,7 @@
 [
   {
     "githubUrl": "https://github.com/onubo/react-native-logs",
-    "ios": true,
+    "ios": false,
     "android": true,
     "web": true,
     "expo": true,
