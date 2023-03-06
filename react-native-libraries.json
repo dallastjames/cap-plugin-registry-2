@@ -1,6 +1,7 @@
 [
   {
     "githubUrl": "https://github.com/ionic-team/capacitor-plugins",
+    "npmPkg": "@capacitor/camera",
     "nameOverride": "Capacitor Camera",
     "ios": true,
     "android": true,
